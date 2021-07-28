@@ -1,11 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-<!-- add the tranche link here -->
-[![All Contributors](
-  https://img.shields.io/github/all-contributors/QueenRenee/Tranche-Finance?label=contributors&style=social
-)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=social)](#contributors-)
 [![Discord](https://img.shields.io/discord/575325880918868007?label=Join%20Tranche&logo=discord&style=social)](https://discord.com/invite/Nv44PTdF3K)
 [![Twitter Follow](https://img.shields.io/twitter/follow/TrancheFinance?style=social)](https://img.shields.io/twitter/follow/TrancheFinance?style=social)
 
@@ -27,7 +22,7 @@ This project follows the [all-contributors](https://allcontributors.org/docs/en/
 
 ### Submit an issue
 
-- Create a [new issue](https://github.com/QueenRenee/Tranche-Finance/issues/new/choose)
+- Create a [new issue](https://github.com/tranche-jibrel/Tranche-Community/issues/new/choose)
 - Comment on the issue (if you'd like to be assigned to it) - that way [our team can assign the issue to you](https://github.blog/2019-06-25-assign-issues-to-issue-commenters/).
 
 ### Fork the repository (repo)
@@ -44,9 +39,25 @@ If this is your first time forking our repo, this is all you need to do for this
 
 ```
 $ git clone git@github.com:[your_github_handle]
-https://github.com/QueenRenee/Tranche-Finance.git
+[git repo]
 
-<!-- add the tranche link here -->
+Contributions
+-------------------------------------------------
+https://github.com/tranche-jibrel/Tranche-Community.git
+
+
+Smart Contracts
+--------------------------------------------------
+
+tranche rewards - https://github.com/tranche-jibrel/Tranche-Community.git
+
+staking protocol - https://github.com/tranche-jibrel/staking-protocol.git
+
+AAVE - https://github.com/tranche-jibrel/tranche-aave-protocol.git
+
+Compound - https://github.com/tranche-jibrel/tranche-compound-protocol.git
+
+
 
 ```
 
@@ -55,9 +66,11 @@ If you've already forked the repo, you'll want to ensure your fork is configured
 To [configure your fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork):
 
 ```
-$ git remote add upstream https://github.com/QueenRenee/Tranche-Finance.git
+$ git remote add upstream
 
-<!-- add the tranche link here -->
+https://github.com/tranche-jibrel/Tranche-Community.git
+
+
 ```
 
 To [sync your fork with the latest changes](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork):
@@ -435,7 +448,7 @@ export const query = graphql`
 
 - To help with verification we request GitHub contributors connect their GitHub account with their Discord account (Discord > Settings > Connections > GitHub). Crowdin contributors will be verified directly through Crowdin by our team.
 
-- If you haven't contributed yet and would like to earn a POAP to show your loyalty to the Tranche space, head over to the [issues](https://github.com/QueenRenee/Tranche-Finance/issues/new/choose) tab to get started!
+- If you haven't contributed yet and would like to earn a POAP to show your loyalty to the Tranche space, head over to the [issues](https://github.com/tranche-jibrel/Tranche-Community/issues/new/choose) tab to get started!
 
 <hr style="margin-top: 3em; margin-bottom: 3em;">
 
@@ -458,13 +471,6 @@ export const query = graphql`
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/QueenRenee"><img src="https://avatars.githubusercontent.com/u/52276446?v=4?s=100" width="100px;" alt=""/><br /><sub><b>QueenRenee</b></sub></a><br /><a href="#content-QueenRenee" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/fabiopak"><img src="https://avatars.githubusercontent.com/u/49749142?v=4?s=100" width="100px;" alt=""/><br /><sub><b>fabiopak</b></sub></a><br /><a href="https://github.com/QueenRenee/Tranche-Finance/commits?author=fabiopak" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/hg-tranche"><img src="https://avatars.githubusercontent.com/u/70196848?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hg-tranche</b></sub></a><br /><a href="https://github.com/QueenRenee/Tranche-Finance/commits?author=hg-tranche" title="Code">💻</a></td>
-  </tr>
-</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
