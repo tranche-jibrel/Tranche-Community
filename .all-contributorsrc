@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "renee-tranche",
+      "name": "renee-tranche",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87926138?v=4",
+      "profile": "https://github.com/renee-tranche",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Tranche-Community",
+  "projectOwner": "tranche-jibrel",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
