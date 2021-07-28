@@ -31,6 +31,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "mjbtranche",
+      "name": "Mujib",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88088288?v=4",
+      "profile": "https://github.com/mjbtranche",
+      "contributions": [
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
