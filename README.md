@@ -462,6 +462,7 @@ export const query = graphql`
   <tr>
     <td align="center"><a href="https://github.com/renee-tranche"><img src="https://avatars.githubusercontent.com/u/87926138?v=4?s=100" width="100px;" alt=""/><br /><sub><b>renee-tranche</b></sub></a><br /><a href="https://github.com/tranche-jibrel/Tranche-Community/commits?author=renee-tranche" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/hg-tranche"><img src="https://avatars.githubusercontent.com/u/70196848?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hg-tranche</b></sub></a><br /><a href="https://github.com/tranche-jibrel/Tranche-Community/commits?author=hg-tranche" title="Code">💻</a></td>
+    <td align="center"><a href="https://thisisgazzar.com"><img src="https://avatars.githubusercontent.com/u/20755913?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohamed Elgazzar</b></sub></a><br /><a href="https://github.com/tranche-jibrel/Tranche-Community/commits?author=thisisgazzar" title="Code">💻</a></td>
   </tr>
 </table>
 
