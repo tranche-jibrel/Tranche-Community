@@ -465,7 +465,7 @@ export const query = graphql`
     <td align="center"><a href="https://thisisgazzar.com"><img src="https://avatars.githubusercontent.com/u/20755913?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohamed Elgazzar</b></sub></a><br /><a href="https://github.com/tranche-jibrel/Tranche-Community/commits?author=thisisgazzar" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/mjbtranche"><img src="https://avatars.githubusercontent.com/u/88088288?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mujib</b></sub></a><br /><a href="https://github.com/tranche-jibrel/Tranche-Community/commits?author=mjbtranche" title="Tests">⚠️</a></td>
     <td align="center"><a href="https://github.com/nayanjn"><img src="https://avatars.githubusercontent.com/u/84502241?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nayanjyoti Das</b></sub></a><br /><a href="https://github.com/tranche-jibrel/Tranche-Community/commits?author=nayanjn" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/fabiopak"><img src="https://avatars.githubusercontent.com/u/49749142?v=4?s=100" width="100px;" alt=""/><br /><sub><b>fabiopak</b></sub></a><br /><a href="https://github.com/tranche-jibrel/Tranche-Community/commits?author=fabiopak" title="Code">💻</a> <a href="#content-fabiopak" title="Content">🖋</a></td>
+
   </tr>
 </table>
 
