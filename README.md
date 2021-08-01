@@ -470,6 +470,7 @@ export const query = graphql`
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/talaltabbaa4"><img src="https://avatars.githubusercontent.com/u/70513698?v=4?s=100" width="100px;" alt=""/><br /><sub><b>talaltabbaa4</b></sub></a><br /><a href="#business-talaltabbaa4" title="Business development">💼</a></td>
+    <td align="center"><a href="https://github.com/alahaddad"><img src="https://avatars.githubusercontent.com/u/71693090?v=4?s=100" width="100px;" alt=""/><br /><sub><b>alahaddad</b></sub></a><br /><a href="#business-alahaddad" title="Business development">💼</a></td>
   </tr>
 </table>
 
