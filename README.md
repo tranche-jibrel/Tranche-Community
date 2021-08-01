@@ -473,6 +473,7 @@ export const query = graphql`
     <td align="center"><a href="https://github.com/alahaddad"><img src="https://avatars.githubusercontent.com/u/71693090?v=4?s=100" width="100px;" alt=""/><br /><sub><b>alahaddad</b></sub></a><br /><a href="#business-alahaddad" title="Business development">💼</a></td>
     <td align="center"><a href="https://github.com/ayush-jibrel"><img src="https://avatars.githubusercontent.com/u/72565596?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ayush-jibrel</b></sub></a><br /><a href="https://github.com/tranche-jibrel/Tranche-Community/commits?author=ayush-jibrel" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/YazanTranche"><img src="https://avatars.githubusercontent.com/u/78013917?v=4?s=100" width="100px;" alt=""/><br /><sub><b>YazanTranche</b></sub></a><br /><a href="#design-YazanTranche" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/om-tranche-finance"><img src="https://avatars.githubusercontent.com/u/82610687?v=4?s=100" width="100px;" alt=""/><br /><sub><b>om-tranche-finance</b></sub></a><br /><a href="https://github.com/tranche-jibrel/Tranche-Community/commits?author=om-tranche-finance" title="Tests">⚠️</a></td>
   </tr>
 </table>
 

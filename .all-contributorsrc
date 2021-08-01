@@ -103,6 +103,15 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "om-tranche-finance",
+      "name": "om-tranche-finance",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82610687?v=4",
+      "profile": "https://github.com/om-tranche-finance",
+      "contributions": [
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
