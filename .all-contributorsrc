@@ -94,6 +94,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "YazanTranche",
+      "name": "YazanTranche",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78013917?v=4",
+      "profile": "https://github.com/YazanTranche",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
