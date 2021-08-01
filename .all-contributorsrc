@@ -58,6 +58,15 @@
       "contributions": [
         "business"
       ]
+    },
+    {
+      "login": "0xSaurabh",
+      "name": "Saurabh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70313230?v=4",
+      "profile": "https://github.com/0xSaurabh",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
