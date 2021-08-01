@@ -464,6 +464,7 @@ export const query = graphql`
     <td align="center"><a href="https://github.com/hg-tranche"><img src="https://avatars.githubusercontent.com/u/70196848?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hg-tranche</b></sub></a><br /><a href="https://github.com/tranche-jibrel/Tranche-Community/commits?author=hg-tranche" title="Code">💻</a></td>
     <td align="center"><a href="https://thisisgazzar.com"><img src="https://avatars.githubusercontent.com/u/20755913?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohamed Elgazzar</b></sub></a><br /><a href="https://github.com/tranche-jibrel/Tranche-Community/commits?author=thisisgazzar" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/mjbtranche"><img src="https://avatars.githubusercontent.com/u/88088288?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mujib</b></sub></a><br /><a href="https://github.com/tranche-jibrel/Tranche-Community/commits?author=mjbtranche" title="Tests">⚠️</a></td>
+
   </tr>
 </table>
 
