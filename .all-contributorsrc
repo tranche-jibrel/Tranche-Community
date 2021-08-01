@@ -40,7 +40,15 @@
       "contributions": [
         "test"
       ]
-
+    },
+    {
+      "login": "nayanjn",
+      "name": "Nayanjyoti Das",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84502241?v=4",
+      "profile": "https://github.com/nayanjn",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
