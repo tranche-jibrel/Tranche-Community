@@ -468,6 +468,9 @@ export const query = graphql`
     <td align="center"><a href="https://github.com/Yazan24"><img src="https://avatars.githubusercontent.com/u/25491050?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yazan24</b></sub></a><br /><a href="#business-Yazan24" title="Business development">💼</a></td>
     <td align="center"><a href="https://github.com/0xSaurabh"><img src="https://avatars.githubusercontent.com/u/70313230?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Saurabh</b></sub></a><br /><a href="https://github.com/tranche-jibrel/Tranche-Community/commits?author=0xSaurabh" title="Code">💻</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/talaltabbaa4"><img src="https://avatars.githubusercontent.com/u/70513698?v=4?s=100" width="100px;" alt=""/><br /><sub><b>talaltabbaa4</b></sub></a><br /><a href="#business-talaltabbaa4" title="Business development">💼</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
