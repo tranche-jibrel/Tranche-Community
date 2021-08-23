@@ -435,7 +435,7 @@ export const query = graphql`
 
 > The Proof of Attendance Protocol is a dapp that distributes badges in the form of ERC-721 tokens to prove you participated in an event. [More on POAPs](https://www.poap.xyz/).
 
-### Tranche.Financce Contributor POAP
+### Tranche.Finance Contributor POAP
 
 - If you have commited any changes so far that were merged into our repo, you have a POAP waiting!
 
